@@ -1,29 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-05-24 00:50:35 +0900
-categories: jekyll update
+title:  "8engちゃん、お誕生日おめでとう！"
+date:   2023-05-24 00:00:00 +0900
+post-image: "https://i.namu.wiki/i/jdb3PWWVSzxmnU7S39FZnCG-7CWovoUCyw9YaKgZv-eVL29MYkL8ezUtDkwLi_AWPmsmKyc9ehhp6qdzb63JCw.webp"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+小豆沢 こはねと申します！
 
-Jekyll requires blog post files to be named according to the following format:
+今日は8engちゃんの誕生日を祝うためにこのようにメッセージを送ります！
 
-`YEAR-MONTH-DAY-title.MARKUP`
+いつも私たちを見守ってくれて応援してくださってありがとうございます！
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+これからも杏ちゃんとも仲良くして、一生懸命歌います！
