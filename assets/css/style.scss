@@ -104,6 +104,16 @@ a.navbar-item.is-active {
     hr {
         background-color: black;
     }
+    .folded-text {
+        display: none;
+        padding: 1rem;
+        background-color: lightgray;
+        margin-top: 1rem;
+    }
+
+    .folded-text.open {
+        display: block;
+    }
 }
 
 #blog {
